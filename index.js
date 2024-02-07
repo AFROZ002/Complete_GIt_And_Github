@@ -44,5 +44,7 @@ function Pandu_M(){
 // New Branch Function Add  commit
 function New_Branch_Add( ){
     console.log("New Branch Function Add");
+    console.log("Anothe Branch Added Successfully");
+    
 }
 
